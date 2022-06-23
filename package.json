@@ -15,6 +15,6 @@
     "eslint-plugin-jsdoc": "^20.0.5",
     "eslint-plugin-lodash": "^6.0.0",
     "eslint-plugin-node": "^11.0.0",
-    "got": "^10.6.0"
+    "got": "^11.8.5"
   }
 }
